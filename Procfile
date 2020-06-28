@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run data_exploration_app.py
