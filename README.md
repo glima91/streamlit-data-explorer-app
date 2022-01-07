@@ -13,7 +13,7 @@
   <h3 align="center">Data Explorer</h3>
 
   <p align="center">
-    A new way to analise data with Streamlit Framework
+    A new way to analyse data with Streamlit Framework
     <br />
     <br />
     
@@ -23,7 +23,7 @@
 
 
 # About The Project
-Streamlit is an amazing tool that combines a web interface with python components. In this project was built an aplication to manage the first steps on data analysis. Using a .csv file is possible to get some statististics about the data, create a correlation matrix, plot histograms and others visualizations.
+Streamlit is an amazing tool that combines a web interface with python components. In this project was built an application to manage the first steps on data analysis. Using a .csv file is possible to get some statistics about the data, create a correlation matrix, plot histograms and others visualizations.
 
 ![project banner 1](https://raw.githubusercontent.com/glima91/streamlit-data-explorer-app/master/readme_images/img-1.PNG)
 ![project banner2](https://raw.githubusercontent.com/glima91/streamlit-data-explorer-app/master/readme_images/img-2.PNG)
