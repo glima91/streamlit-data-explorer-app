@@ -13,7 +13,7 @@
   <h3 align="center">Data Explorer</h3>
 
   <p align="center">
-    A new way to analyse data with Streamlit Framework
+    A new way to analyze data with Streamlit Framework
     <br />
     <br />
     
